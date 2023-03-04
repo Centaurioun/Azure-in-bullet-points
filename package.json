@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "markdownlint-cli": "^0.28.1",
-    "remark-cli": "^10.0.0",
+    "remark-cli": "^11.0.0",
     "remark-lint-no-dead-urls": "^1.1.0",
     "remark-preset-lint-consistent": "^5.0.1",
     "remark-validate-links": "^11.0.0"
