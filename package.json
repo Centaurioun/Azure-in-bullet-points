@@ -13,7 +13,7 @@
     "markdownlint-cli": "^0.33.0",
     "remark-cli": "^10.0.0",
     "remark-lint-no-dead-urls": "^1.1.0",
-    "remark-preset-lint-consistent": "^5.0.1",
+    "remark-preset-lint-consistent": "^5.1.1",
     "remark-validate-links": "^11.0.0"
   }
 }
